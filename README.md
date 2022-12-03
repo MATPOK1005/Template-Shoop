@@ -1,4 +1,2 @@
 # Template-Shoop
-This is a template shop I did.
-
-Another one of my school projects. This one is made in php using cookies.
+Another one of my school projects. This one is made in php. It has a database connected to the site to allow logging in and uses cookies to handle the cart.
